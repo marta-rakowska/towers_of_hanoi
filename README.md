@@ -21,6 +21,6 @@ The objective of the game is to move the stack of disks from the leftmost stack 
           source venv/bin/activate<br><br>
       <li>Clone git repository:<br><br>
           git clone https://github.com/marta-rakowska/<br><br>
-      <li>Clone git repository:<br><br>
+      <li>Run:<br><br>
           python3 towers_of_hanoi.py<br>        
     </ol>
