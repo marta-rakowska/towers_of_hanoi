@@ -30,3 +30,9 @@ The objective of the game is to move the stack of disks from the leftmost stack 
   <li>Run:<br><br>
       python3 towers_of_hanoi.py<br>        
 </ol>
+
+## Stats:
+
+![triathlon_checklist](https://img.shields.io/github/license/marta-rakowska/triathlon_checklist.svg)
+
+![triathlon_checklist](https://img.shields.io/github/watchers/marta-rakowska/triathlon_checklist.svg)
