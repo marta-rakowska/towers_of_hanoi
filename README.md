@@ -19,6 +19,9 @@ The objective of the game is to move the stack of disks from the leftmost stack 
 
 ## Pre-requisites:
 
+Python 3.10<br>
+virtualenv
+
 ## How to run:
 
 <ol>
@@ -33,6 +36,8 @@ The objective of the game is to move the stack of disks from the leftmost stack 
 
 ## Stats:
 
-![triathlon_checklist](https://img.shields.io/github/license/marta-rakowska/triathlon_checklist.svg)
+![towers_of_hanoi](https://img.shields.io/github/languages/top/marta-rakowska/towers_of_hanoi)
 
-![triathlon_checklist](https://img.shields.io/github/watchers/marta-rakowska/triathlon_checklist.svg)
+![trowers_of_hanoi](https://img.shields.io/github/license/marta-rakowska/towers_of_hanoi.svg)
+
+![towers_of_hanoi](https://img.shields.io/github/watchers/marta-rakowska/towers_of_hanoi.svg)
